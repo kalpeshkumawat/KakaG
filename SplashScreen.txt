@@ -4,3 +4,6 @@ This is splash screen
 
 
 This is before commit
+
+
+hi
