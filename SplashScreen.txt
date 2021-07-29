@@ -1,1 +1,3 @@
 dklsjdjsdl
+
+This is splash screen
